@@ -29,3 +29,6 @@ You should read our [Get Involved Guide](http://dev.xwiki.org/xwiki/bin/view/Com
 * [Blog](http://www.xwiki.org/xwiki/bin/view/Blog/)
 * [Forum](https://dev.xwiki.org/xwiki/bin/view/Community/Discuss)
 * [Chat](https://dev.xwiki.org/xwiki/bin/view/Community/Chat)
+
+## Infrastructure as Code
+Deployment infrastructure is defined as code in the iac/ directory.
